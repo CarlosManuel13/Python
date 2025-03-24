@@ -62,8 +62,8 @@ if __name__ == "__main__":
         }
         return data
     
-    raixer_api_user="carlosnfq"
-    raixer_api_secret="s85tf83Xqj6vAyL96hjs8755ERqb6te"
+    raixer_api_user=""
+    raixer_api_secret=""
     true=str(True).lower()
     false=str(False).lower()
 
