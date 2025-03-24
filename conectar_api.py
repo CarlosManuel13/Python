@@ -68,8 +68,8 @@ if __name__ == "__main__":
     false=str(False).lower()
 
 
-    deviceId="2c0047000351353532373238"
-    doorId="5c61999cdc1e2d0015c92739"
+    deviceId=""
+    doorId=""
 
     raixer_api = RaixerApi(raixer_api_user, raixer_api_secret) 
     phone_api_url="https://api.raixer.com/authorized-phones/v2/"
